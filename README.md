@@ -53,4 +53,4 @@ Python (pandas, regex), SQL (SQLite).
 
 ## Author
 
-Kritika Verma, [LinkedIn / email]
+Kritika Verma
